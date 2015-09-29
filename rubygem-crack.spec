@@ -4,7 +4,7 @@
 #
 Name     : rubygem-crack
 Version  : 0.4.2
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/crack-0.4.2.gem
 Source0  : https://rubygems.org/downloads/crack-0.4.2.gem
 Summary  : No detailed summary available
