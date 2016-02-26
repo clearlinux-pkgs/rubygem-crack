@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-02-25 23:03:08.336437
+# {'>=0.3.2'}
+watchurl=https://rubygems.org/gems/crack/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
