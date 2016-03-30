@@ -4,7 +4,7 @@
 #
 Name     : rubygem-crack
 Version  : 0.4.3
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/crack-0.4.3.gem
 Source0  : https://rubygems.org/downloads/crack-0.4.3.gem
 Summary  : No detailed summary available
@@ -58,50 +58,29 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/crack-0.4.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/JSON/cdesc-JSON.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/JSON/format_dates-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/JSON/parse-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/JSON/parser_exceptions-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/JSON/unescape-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/ParseError/cdesc-ParseError.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/REXMLParser/cdesc-REXMLParser.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/REXMLParser/parse-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/Util/cdesc-Util.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/Util/snake_case-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/Util/to_xml_attributes-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/XML/cdesc-XML.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/XML/parse-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/XML/parser%3d-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/XML/parser-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/Crack/cdesc-Crack.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/REXMLUtilityNode/cdesc-REXMLUtilityNode.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/REXMLUtilityNode/f/cdesc-f.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/REXMLUtiliyNodeString/attributes-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/REXMLUtiliyNodeString/cdesc-REXMLUtiliyNodeString.ri
-/usr/lib64/ruby/gems/2.2.0/doc/crack-0.4.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/History
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/crack.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/lib/crack.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/lib/crack/json.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/lib/crack/util.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/lib/crack/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/lib/crack/xml.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/script/bootstrap
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/script/release
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/script/test
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/data/large_dataset.json
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/data/twittersearch-firefox.json
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/data/twittersearch-ie.json
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/hash_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/json_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/parser_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/string_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/test_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/crack-0.4.3/test/xml_test.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/crack-0.4.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/crack-0.4.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/History
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/crack.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/lib/crack.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/lib/crack/json.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/lib/crack/util.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/lib/crack/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/lib/crack/xml.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/script/bootstrap
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/script/release
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/script/test
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/data/large_dataset.json
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/data/twittersearch-firefox.json
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/data/twittersearch-ie.json
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/hash_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/json_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/parser_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/string_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/test_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/crack-0.4.3/test/xml_test.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/crack-0.4.3.gemspec
