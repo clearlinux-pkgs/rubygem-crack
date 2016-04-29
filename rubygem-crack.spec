@@ -4,7 +4,7 @@
 #
 Name     : rubygem-crack
 Version  : 0.4.3
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/crack-0.4.3.gem
 Source0  : https://rubygems.org/downloads/crack-0.4.3.gem
 Summary  : No detailed summary available
